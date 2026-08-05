@@ -1,165 +1,165 @@
 <div align="center">
 
-# Hey, I'm Miyamoto 👋
-
-### Full-Stack Developer · Backend Engineer · DevOps 
-
-<a href="https://www.linkedin.com/in/ayman-msaoub/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://portfoliov-2-0-1jhy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="./assets/ascii-portrait.webp" width="480" alt="ASCII portrait" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Enthusiast;Docker+%26+Kubernetes+Explorer;DevOps+%26+Cloud+Learner;Building+systems%2C+not+just+applications." alt="Typing SVG" />
+# MIYAMOTO
+
+<sub>FULL-STACK DEVELOPER &nbsp;·&nbsp; BACKEND ENGINEER &nbsp;·&nbsp; DEVOPS</sub>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/ayman-msaoub/">
+  <img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfoliov-2-0-1jhy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6E7681&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+applications.;Backend+%26+API+design;Docker+%2F+Kubernetes+%2F+GitOps;Cloud+%26+infrastructure+automation" alt="Typing SVG" />
 
 </div>
 
+<br />
+
 ---
 
-## 👨‍💻 About Me
+<br />
 
-I'm a **Full-Stack Developer and student** who enjoys building applications from the frontend all the way to the infrastructure they run on.
+## About
 
-My main focus is **backend engineering** — designing APIs, working with databases, authentication, real-time systems, and scalable application architectures.
+I'm a full-stack developer and student who works across the entire stack — from
+interface down to the infrastructure it runs on.
 
-I'm also increasingly interested in **DevOps and Cloud Engineering**, especially containerization, Kubernetes, CI/CD, infrastructure automation, and GitOps.
+My core focus is **backend engineering**: API design, databases, authentication,
+real-time systems, and application architecture. Alongside that, I'm building
+toward **DevOps and cloud engineering** — containerization, Kubernetes, CI/CD,
+infrastructure automation, and GitOps.
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Frontend  →  Backend  →  Infrastructure  →  Cloud   │
-│      ↓           ↓              ↓                ↓      │
-│    React      APIs          Docker/K8s       Automation │
-│    Next.js    Databases     CI/CD            IaC       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+```
+Frontend  ──▶  Backend  ──▶  Infrastructure  ──▶  Cloud
+   │              │                │                │
+ React          APIs           Docker / K8s      Automation
+ Next.js        Databases      CI / CD           IaC
 ```
 
-> I like understanding not only **how to build software**, but also **how to deploy, operate, automate, and scale it.**
+<br />
 
 ---
 
-## 🧠 What I Work With
+<br />
 
-### Frontend
+## Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,nginx" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,terraform,ansible,aws" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td valign="top" width="25%">
 
-### 🎮 ft_transcendence
+**Frontend**
+<br /><br />
+React&nbsp;·&nbsp;Next.js
+TypeScript&nbsp;·&nbsp;JavaScript
+Tailwind&nbsp;·&nbsp;Vite
 
-Real-time multiplayer web application developed at 42.
+</td>
+<td valign="top" width="25%">
 
-**Highlights**
+**Backend**
+<br /><br />
+Node.js&nbsp;·&nbsp;Express
+Python&nbsp;·&nbsp;Django
 
-* Real-time Pong
-* WebSockets
-* Chat system
-* Authentication
-* 2FA
-* User profiles
-* REST API
-* Dockerized architecture
+</td>
+<td valign="top" width="25%">
 
-**Stack**
+**Data & Infra**
+<br /><br />
+PostgreSQL&nbsp;·&nbsp;MongoDB
+Redis&nbsp;·&nbsp;Docker
+Kubernetes&nbsp;·&nbsp;Nginx
+
+</td>
+<td valign="top" width="25%">
+
+**DevOps & Cloud**
+<br /><br />
+Linux&nbsp;·&nbsp;Git
+Terraform&nbsp;·&nbsp;Ansible
+AWS
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ft_transcendence
+
+Real-time multiplayer web application, built at 42.
+
+- Real-time Pong over WebSockets
+- Live chat system
+- Authentication with 2FA
+- REST API, dockerized architecture
 
 `Django` `DRF` `React` `PostgreSQL` `Docker`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Inception of Things
 
-### ☸️ Inception of Things
+DevOps-focused exploration of Kubernetes infrastructure.
 
-DevOps-focused project exploring Kubernetes infrastructure and deployment.
-
-**Highlights**
-
-* K3s
-* K3d
-* Kubernetes
-* Helm
-* Traefik
-* Argo CD
-* GitOps
-* GitLab CI/CD
-* Vagrant
-
-**Stack**
+- K3s / K3d clusters
+- Helm charts, Traefik ingress
+- Argo CD, GitOps workflows
+- GitLab CI/CD, Vagrant provisioning
 
 `Kubernetes` `K3s` `Docker` `Helm` `Argo CD`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐳 Inception
+### Inception
 
-Containerized infrastructure project focused on system administration and Docker.
+Containerized infrastructure and system administration project.
 
-**Highlights**
-
-* Multi-container architecture
-* Docker Compose
-* Nginx
-* MariaDB
-* WordPress
-* Linux administration
-* Networking
-
-**Stack**
+- Multi-container architecture
+- Docker Compose orchestration
+- Nginx, MariaDB, WordPress
+- Linux administration & networking
 
 `Docker` `Nginx` `MariaDB` `Linux`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🌐 HyperTube
+### HyperTube
 
 Distributed web application built around multiple backend services.
 
-**Highlights**
-
-* Microservice architecture
-* REST APIs
-* Authentication
-* Database integration
-* Containerized services
-
-**Stack**
+- Microservice architecture
+- REST APIs across services
+- Authentication & database integration
+- Fully containerized services
 
 `NestJS` `Django` `React` `PostgreSQL` `Docker`
 
@@ -167,82 +167,95 @@ Distributed web application built around multiple backend services.
 </tr>
 </table>
 
----
-
-
-## ☁️ DevOps Journey
-
-My long-term direction is to move deeper into **DevOps / Cloud / Platform Engineering**.
-
-### Currently exploring
-
-* 🐳 Docker & containerization
-* ☸️ Kubernetes / K3s / K3d
-* ⛵ Helm
-* 🔄 CI/CD
-* 🚀 Argo CD & GitOps
-* 🏗️ Terraform
-* ⚙️ Ansible
-* ☁️ AWS
-* 🌐 Nginx & reverse proxies
-* 📊 Monitoring & observability
-* 🔐 Infrastructure & security
+<br />
 
 ---
 
-## 🧪 Engineering Interests
+<br />
 
-I enjoy working on problems involving:
+## DevOps Journey
 
-* API architecture
-* Authentication & authorization
-* Real-time systems
-* Distributed applications
-* Database design
-* Caching
-* Containerization
-* Kubernetes
-* CI/CD
-* Infrastructure as Code
-* Cloud architecture
-* System reliability
-* Automation
+Long-term direction: deeper into DevOps, cloud, and platform engineering.
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+Currently exploring
+
+- Docker & containerization
+- Kubernetes / K3s / K3d
+- Helm
+- CI/CD pipelines
+
+</td>
+<td valign="top" width="50%">
+
+&nbsp;
+
+- Argo CD & GitOps
+- Terraform
+- Ansible
+- AWS, Nginx, observability
+
+</td>
+</tr>
+</table>
+
+<br />
 
 ---
 
-## 🐍 Contribution Activity
+<br />
+
+## Engineering Interests
+
+API architecture&nbsp;·&nbsp;Authentication & authorization&nbsp;·&nbsp;Real-time systems
+Distributed applications&nbsp;·&nbsp;Database design&nbsp;·&nbsp;Caching
+Containerization&nbsp;·&nbsp;Kubernetes&nbsp;·&nbsp;CI/CD&nbsp;·&nbsp;Infrastructure as Code
+Cloud architecture&nbsp;·&nbsp;System reliability&nbsp;·&nbsp;Automation
+
+<br />
+
+---
+
+<br />
 
 <div align="center">
+
+## Contribution Activity
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
+<br />
+
 ---
 
-
-## 🤝 Let's Connect
-
-I'm open to interesting projects, internships, collaborations, and opportunities around **backend development, full-stack engineering, DevOps, and cloud infrastructure**.
+<br />
 
 <div align="center">
+
+## Let's Connect
+
+Open to projects, internships, and collaborations around backend development,
+full-stack engineering, DevOps, and cloud infrastructure.
+
+<br />
 
 <a href="https://www.linkedin.com/in/ayman-msaoub/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://portfoliov-2-0-1jhy.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-Portfolio-141414?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-</div>
+<br />
+<br />
 
----
+<sub>BUILD &nbsp;→&nbsp; BREAK &nbsp;→&nbsp; UNDERSTAND &nbsp;→&nbsp; AUTOMATE</sub>
 
-<div align="center">
-
-### ⚡ Build → Break → Understand → Automate
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=141414" />
 
 </div>
