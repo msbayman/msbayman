@@ -1,225 +1,361 @@
+<div align="center">
+
 # Hey, I'm Miyamoto 👋
 
-### Full-Stack Developer | Backend Enthusiast | DevOps Learner
+### Full-Stack Developer · Backend Engineer · DevOps 
 
-I'm a developer and student who enjoys building **full-stack applications**, designing **backend systems**, and working with **containers, cloud infrastructure, and automation**.
+<a href="https://www.linkedin.com/in/ayman-msaoub/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfoliov-2-0-1jhy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-I'm currently focusing more on **backend engineering with Node.js/Express and Django**, while gradually moving deeper into **DevOps, Kubernetes, CI/CD, and cloud infrastructure**.
+<br />
 
-I like understanding how things work under the hood — from designing APIs and databases to containerizing applications and deploying them.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Enthusiast;Docker+%26+Kubernetes+Explorer;DevOps+%26+Cloud+Learner;Building+systems%2C+not+just+applications." alt="Typing SVG" />
 
----
-
-## 🚀 What I Like
-
-* 🧠 Backend architecture & API design
-* ⚡ Building REST APIs and real-time applications
-* 🗄️ Database design and optimization
-* 🐳 Docker & containerized applications
-* ☸️ Kubernetes & container orchestration
-* 🔄 CI/CD and automation
-* ☁️ Cloud infrastructure
-* 🏗️ System design and scalable applications
-* 🔐 Authentication, security & distributed systems
-* 🧪 Testing and writing maintainable code
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Languages
+I'm a **Full-Stack Developer and student** who enjoys building applications from the frontend all the way to the infrastructure they run on.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+My main focus is **backend engineering** — designing APIs, working with databases, authentication, real-time systems, and scalable application architectures.
 
-### 🎨 Frontend
+I'm also increasingly interested in **DevOps and Cloud Engineering**, especially containerization, Kubernetes, CI/CD, infrastructure automation, and GitOps.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Frontend  →  Backend  →  Infrastructure  →  Cloud   │
+│      ↓           ↓              ↓                ↓      │
+│    React      APIs          Docker/K8s       Automation │
+│    Next.js    Databases     CI/CD            IaC       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-
-### 🗄️ Databases & Storage
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### ☁️ DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge\&logo=k3s\&logoColor=black)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
-
-### 🔄 CI/CD & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Argo CD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+> I like understanding not only **how to build software**, but also **how to deploy, operate, automate, and scale it.**
 
 ---
 
-## 🧩 Featured Projects
+## 🧠 What I Work With
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,nginx" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,githubactions,terraform,ansible,helm,aws" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎮 ft_transcendence
 
-A full-stack real-time multiplayer application developed as part of the 42 curriculum.
+Real-time multiplayer web application developed at 42.
 
-**Highlights:**
+**Highlights**
 
-* Real-time multiplayer Pong
-* Real-time chat
-* Authentication & authorization
+* Real-time Pong
+* WebSockets
+* Chat system
+* Authentication
 * 2FA
-* User profiles and statistics
-* REST APIs
-* Containerized architecture
+* User profiles
+* REST API
+* Dockerized architecture
 
-**Stack:** Django · Django REST Framework · React · PostgreSQL · Docker · WebSockets
+**Stack**
 
----
+`Django` `DRF` `React` `PostgreSQL` `Docker`
+
+</td>
+
+<td width="50%">
 
 ### ☸️ Inception of Things
 
-A DevOps-focused project exploring Kubernetes and application deployment.
+DevOps-focused project exploring Kubernetes infrastructure and deployment.
 
-**What I worked with:**
+**Highlights**
 
 * K3s
 * K3d
 * Kubernetes
-* Docker
-* Vagrant
 * Helm
 * Traefik
 * Argo CD
+* GitOps
 * GitLab CI/CD
+* Vagrant
 
-This project helped me understand the transition from simply **building applications** to **deploying and managing them in infrastructure**.
+**Stack**
 
----
+`Kubernetes` `K3s` `Docker` `Helm` `Argo CD`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🐳 Inception
 
-A system administration and containerization project focused on building a multi-service infrastructure using Docker.
+Containerized infrastructure project focused on system administration and Docker.
 
-**Stack:** Docker · Docker Compose · Nginx · MariaDB · WordPress · Linux
+**Highlights**
 
----
+* Multi-container architecture
+* Docker Compose
+* Nginx
+* MariaDB
+* WordPress
+* Linux administration
+* Networking
+
+**Stack**
+
+`Docker` `Nginx` `MariaDB` `Linux`
+
+</td>
+
+<td width="50%">
 
 ### 🌐 HyperTube
 
-A distributed web application built using a microservice-oriented architecture.
+Distributed web application built around multiple backend services.
 
-**Stack:** NestJS · Django · React · PostgreSQL · Docker
+**Highlights**
+
+* Microservice architecture
+* REST APIs
+* Authentication
+* Database integration
+* Containerized services
+
+**Stack**
+
+`NestJS` `Django` `React` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Backend Focus
+
+I'm currently putting most of my energy into becoming a stronger backend engineer.
+
+```text
+                 BACKEND
+                    │
+        ┌───────────┼───────────┐
+        ↓           ↓           ↓
+      APIs      Databases    Security
+        │           │           │
+   REST / WS    PostgreSQL    JWT
+   Express      MongoDB       OAuth
+   Django       Redis         2FA
+   NestJS                     Sessions
+        │           │           │
+        └───────────┼───────────┘
+                    ↓
+              SYSTEM DESIGN
+                    │
+                    ↓
+             DEPLOYMENT
+                    │
+                    ↓
+          Docker → Kubernetes
+                    │
+                    ↓
+           CI/CD → GitOps
+                    │
+                    ↓
+          Cloud / DevOps
+```
+
+---
+
+## ☁️ DevOps Journey
+
+My long-term direction is to move deeper into **DevOps / Cloud / Platform Engineering**.
+
+### Currently exploring
+
+* 🐳 Docker & containerization
+* ☸️ Kubernetes / K3s / K3d
+* ⛵ Helm
+* 🔄 CI/CD
+* 🚀 Argo CD & GitOps
+* 🏗️ Terraform
+* ⚙️ Ansible
+* ☁️ AWS
+* 🌐 Nginx & reverse proxies
+* 📊 Monitoring & observability
+* 🔐 Infrastructure & security
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently pushing deeper into:
-
 ```text
-Backend Engineering
-       │
-       ├── Node.js / Express
-       ├── TypeScript
-       ├── Django / DRF
-       ├── PostgreSQL
-       ├── MongoDB
-       ├── Redis
-       ├── Authentication & Security
-       └── Testing
-              │
-              ▼
-        DevOps / Cloud
-              │
-              ├── Docker
-              ├── Kubernetes
-              ├── Helm
-              ├── Terraform
-              ├── Ansible
-              ├── CI/CD
-              ├── GitOps
-              └── Cloud Infrastructure
+JavaScript
+   ↓
+TypeScript
+   ↓
+Node.js / Express
+   ↓
+Backend Architecture
+   ↓
+Databases & Caching
+   ↓
+Testing
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+CI/CD & GitOps
+   ↓
+Terraform / Cloud
+   ↓
+DevOps / Platform Engineering
 ```
 
-My goal is to become a strong **backend engineer** first and then transition deeper into **DevOps / Cloud Engineering**.
+I'm especially interested in the **connection between application development and infrastructure**.
 
 ---
 
-## 🎯 My Development Philosophy
+## 🧪 Engineering Interests
 
-> Build it. Break it. Understand it. Automate it.
+I enjoy working on problems involving:
 
-I don't want to only learn frameworks.
-
-I want to understand:
-
-* How applications communicate
-* How APIs are designed
-* How databases behave
-* How authentication works
-* How applications scale
-* How containers work
-* How services are deployed
-* How infrastructure is automated
-* How CI/CD pipelines work
-* How systems fail — and how to recover them
+* API architecture
+* Authentication & authorization
+* Real-time systems
+* Distributed applications
+* Database design
+* Caching
+* Containerization
+* Kubernetes
+* CI/CD
+* Infrastructure as Code
+* Cloud architecture
+* System reliability
+* Automation
 
 ---
 
-## 📈 What I'm Working Toward
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbayman&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbayman&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🎯 Current Direction
 
 ```text
-Full-Stack Developer
-        ↓
-Backend Developer
-        ↓
-Backend + Systems
-        ↓
-DevOps / Cloud Engineer
-        ↓
-Cloud / Platform Engineering
+                 ┌───────────────────┐
+                 │   Full-Stack Dev  │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │ Backend Engineer  │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │ Systems & APIs    │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │ DevOps / Cloud    │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │ Platform Engineer │
+                 └───────────────────┘
 ```
 
-I'm especially interested in the intersection between **software development and infrastructure**.
+I'm not trying to collect technologies just for the sake of it.
+
+**I want to understand how modern software systems are built, deployed, automated, and scaled.**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
+I'm open to interesting projects, internships, collaborations, and opportunities around **backend development, full-stack engineering, DevOps, and cloud infrastructure**.
 
-* Backend projects
-* DevOps & cloud projects
-* Open-source collaboration
-* Real-time applications
-* Distributed systems
-* Interesting technical challenges
+<div align="center">
 
-If you're building something cool, feel free to reach out.
+<a href="https://www.linkedin.com/in/ayman-msaoub/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfoliov-2-0-1jhy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### ⚡ Fun fact
+<div align="center">
 
-I enjoy taking something that works locally and asking:
+### ⚡ Build → Break → Understand → Automate
 
-**"Okay... but how do we deploy this properly?"** 😄
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
