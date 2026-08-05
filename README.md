@@ -53,7 +53,7 @@ I'm also increasingly interested in **DevOps and Cloud Engineering**, especially
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
 ### Databases & Infrastructure
@@ -65,7 +65,7 @@ I'm also increasingly interested in **DevOps and Cloud Engineering**, especially
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,githubactions,terraform,ansible,helm,aws" />
+<img src="https://skillicons.dev/icons?i=linux,git,terraform,ansible,aws" />
 </p>
 
 ---
@@ -169,40 +169,6 @@ Distributed web application built around multiple backend services.
 
 ---
 
-## ⚙️ Backend Focus
-
-I'm currently putting most of my energy into becoming a stronger backend engineer.
-
-```text
-                 BACKEND
-                    │
-        ┌───────────┼───────────┐
-        ↓           ↓           ↓
-      APIs      Databases    Security
-        │           │           │
-   REST / WS    PostgreSQL    JWT
-   Express      MongoDB       OAuth
-   Django       Redis         2FA
-   NestJS                     Sessions
-        │           │           │
-        └───────────┼───────────┘
-                    ↓
-              SYSTEM DESIGN
-                    │
-                    ↓
-             DEPLOYMENT
-                    │
-                    ↓
-          Docker → Kubernetes
-                    │
-                    ↓
-           CI/CD → GitOps
-                    │
-                    ↓
-          Cloud / DevOps
-```
-
----
 
 ## ☁️ DevOps Journey
 
@@ -221,36 +187,6 @@ My long-term direction is to move deeper into **DevOps / Cloud / Platform Engine
 * 🌐 Nginx & reverse proxies
 * 📊 Monitoring & observability
 * 🔐 Infrastructure & security
-
----
-
-## 📚 Currently Learning
-
-```text
-JavaScript
-   ↓
-TypeScript
-   ↓
-Node.js / Express
-   ↓
-Backend Architecture
-   ↓
-Databases & Caching
-   ↓
-Testing
-   ↓
-Docker
-   ↓
-Kubernetes
-   ↓
-CI/CD & GitOps
-   ↓
-Terraform / Cloud
-   ↓
-DevOps / Platform Engineering
-```
-
-I'm especially interested in the **connection between application development and infrastructure**.
 
 ---
 
@@ -274,26 +210,6 @@ I enjoy working on problems involving:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbayman&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbayman&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -304,35 +220,6 @@ I enjoy working on problems involving:
 
 ---
 
-## 🎯 Current Direction
-
-```text
-                 ┌───────────────────┐
-                 │   Full-Stack Dev  │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │ Backend Engineer  │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │ Systems & APIs    │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │ DevOps / Cloud    │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │ Platform Engineer │
-                 └───────────────────┘
-```
-
-I'm not trying to collect technologies just for the sake of it.
-
-**I want to understand how modern software systems are built, deployed, automated, and scaled.**
-
----
 
 ## 🤝 Let's Connect
 
