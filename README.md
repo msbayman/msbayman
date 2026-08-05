@@ -1,29 +1,27 @@
-<div align="center">
-
-<img src="./assets/ascii-portrait.webp" width="480" alt="ASCII portrait" />
-
-<br />
-
-# MIYAMOTO
-
-<sub>FULL-STACK DEVELOPER &nbsp;·&nbsp; BACKEND ENGINEER &nbsp;·&nbsp; DEVOPS</sub>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/ayman-msaoub/">
-  <img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://portfoliov-2-0-1jhy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6E7681&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+applications.;Backend+%26+API+design;Docker+%2F+Kubernetes+%2F+GitOps;Cloud+%26+infrastructure+automation" alt="Typing SVG" />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./assets/ascii-portrait.webp" width="480" alt="ASCII portrait" />
+    </td>
+    <td>
+      <div align="center">
+        <h1>MIYAMOTO</h1>
+        <sub>FULL-STACK DEVELOPER &nbsp;·&nbsp; BACKEND ENGINEER &nbsp;·&nbsp; DEVOPS</sub>
+        <br />
+        <br />
+        <a href="https://www.linkedin.com/in/ayman-msaoub/">
+          <img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://portfoliov-2-0-1jhy.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        <br />
+        <br />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6E7681&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+applications.;Backend+%26+API+design;Docker+%2F+Kubernetes+%2F+GitOps;Cloud+%26+infrastructure+automation" alt="Typing SVG" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
